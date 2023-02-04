@@ -1,6 +1,6 @@
 # Ecoindex reference
 
-This project provides a json file that aggregate reference data for the EcoIndex population.
+This project provides a json file that aggregate reference data for the EcoIndex computation.
 
 It is based on the work of the association [GreenIT](https://www.greenit.fr/)
 
