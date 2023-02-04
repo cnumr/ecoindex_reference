@@ -1,6 +1,6 @@
 {
   "name": "ecoindex_reference",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Provides a json file that aggregate reference data for the EcoIndex computation",
   "main": "ecoindex_reference.json",
   "repository": "git@github.com:cnumr/ecoindex_reference.git",
