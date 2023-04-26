@@ -83,31 +83,38 @@
   "grades": [
     {
       "value": 80,
-      "grade": "A"
+      "grade": "A",
+      "color": "#349A47"
     },
     {
       "value": 70,
-      "grade": "B"
+      "grade": "B",
+      "color": "#51B84B"
     },
     {
       "value": 55,
-      "grade": "C"
+      "grade": "C",
+      "color": "#CADB2A"
     },
     {
       "value": 40,
-      "grade": "D"
+      "grade": "D",
+      "color": "#F6EB15"
     },
     {
       "value": 25,
-      "grade": "E"
+      "grade": "E",
+      "color": "#FECD06"
     },
     {
       "value": 10,
-      "grade": "F"
+      "grade": "F",
+      "color": "#F99839"
     },
     {
       "value": 0,
-      "grade": "G"
+      "grade": "G",
+      "color": "#ED2124"
     }
   ]
 }
