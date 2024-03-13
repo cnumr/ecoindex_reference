@@ -116,5 +116,233 @@
       "grade": "G",
       "color": "#ED2124"
     }
-  ]
+  ],
+  "impact_factors": {
+    "manufacturing": {
+      "NEGA-0915": {
+        "name": "Search for an information; with a search engine, consulting 2 pages of results, with a fixed-line connection, 50% desktop computer, 50% laptop computer; FR",
+        "unit": "request",
+        "country": "FR",
+        "factors": {
+          "ADPe": {
+            "description": "",
+            "unit": "kg SB eq.",
+            "value": 0.0000000978
+          },
+          "ADPf": {
+            "description": "",
+            "unit": "MJ",
+            "value": 0.0517
+          },
+          "AP": {
+            "description": "",
+            "unit": "mol H+ eq.",
+            "value": 0.0000078
+          },
+          "CTUe": {
+            "description": "",
+            "unit": "CTUe",
+            "value": 0.0262
+          },
+          "CTUh-c": {
+            "description": "",
+            "unit": "CTUh",
+            "value": 0.00000000000039
+          },
+          "CTUh-nc": {
+            "description": "",
+            "unit": "CTUh",
+            "value": 0.0000000000199
+          },
+          "Epf": {
+            "description": "",
+            "unit": "kg P eq.",
+            "value": 0.0000000128
+          },
+          "Epm": {
+            "description": "",
+            "unit": "kg N eq.",
+            "value": 0.00000111
+          },
+          "Ept": {
+            "description": "",
+            "unit": "mol N eq.",
+            "value": 0.0000104
+          },
+          "GWP": {
+            "description": "",
+            "unit": "kg CO2 eq.",
+            "value": 0.00123
+          },
+          "GWPb": {
+            "description": "",
+            "unit": "kg CO2 eq.",
+            "value": 0.00000415
+          },
+          "GWPf": {
+            "description": "",
+            "unit": "kg CO2 eq.",
+            "value": 0.00122
+          },
+          "GWPlu": {
+            "description": "",
+            "unit": "kg CO2 eq.",
+            "value": 0.0000000000147
+          },
+          "IR": {
+            "description": "",
+            "unit": "kg U235 eq.",
+            "value": 0.0066
+          },
+          "LU": {
+            "description": "",
+            "unit": "No dimension",
+            "value": 0.0000914
+          },
+          "ODP": {
+            "description": "",
+            "unit": "kg CFC-11 eq.",
+            "value": 0.000000000256
+          },
+          "PM": {
+            "description": "",
+            "unit": "Disease occurrence",
+            "value": 0.000000000081
+          },
+          "POCP": {
+            "description": "",
+            "unit": "kg NMVOC eq.",
+            "value": 0.00000313
+          },
+          "WU": {
+            "description": "",
+            "unit": "m3 eq.",
+            "value": 0.00776
+          },
+          "MIPS": {
+            "description": "",
+            "unit": "kg",
+            "value": 0.00662
+          },
+          "TPE": {
+            "description": "",
+            "unit": "MJ",
+            "value": 0.0554
+          }
+        }
+      },
+      "NEGA-0916": {
+        "name": "Search for an information; with a search engine, consulting 2 pages of results, with a mobile connection, 15% tablet, 85% smartphone; FR",
+        "unit": "request",
+        "country": "FR",
+        "factors": {
+          "ADPe": {
+            "description": "",
+            "unit": "kg SB eq.",
+            "value": 0.0000000456
+          },
+          "ADPf": {
+            "description": "",
+            "unit": "MJ",
+            "value": 0.0239
+          },
+          "AP": {
+            "description": "",
+            "unit": "mol H+ eq.",
+            "value": 0.00000557
+          },
+          "CTUe": {
+            "description": "",
+            "unit": "CTUe",
+            "value": 0.0166
+          },
+          "CTUh-c": {
+            "description": "",
+            "unit": "CTUh",
+            "value": 0.000000000000215
+          },
+          "CTUh-nc": {
+            "description": "",
+            "unit": "CTUh",
+            "value": 0.00000000000936
+          },
+          "Epf": {
+            "description": "",
+            "unit": "kg P eq.",
+            "value": 0.00000000709
+          },
+          "Epm": {
+            "description": "",
+            "unit": "kg N eq.",
+            "value": 0.00000068
+          },
+          "Ept": {
+            "description": "",
+            "unit": "mol N eq.",
+            "value": 0.00000686
+          },
+          "GWP": {
+            "description": "",
+            "unit": "kg CO2 eq.",
+            "value": 0.000901
+          },
+          "GWPb": {
+            "description": "",
+            "unit": "kg CO2 eq.",
+            "value": 0.00000152
+          },
+          "GWPf": {
+            "description": "",
+            "unit": "kg CO2 eq.",
+            "value": 0.000899
+          },
+          "GWPlu": {
+            "description": "",
+            "unit": "kg CO2 eq.",
+            "value": 0.00000000002
+          },
+          "IR": {
+            "description": "",
+            "unit": "kg U235 eq.",
+            "value": 0.00204
+          },
+          "LU": {
+            "description": "",
+            "unit": "No dimension",
+            "value": 0.0000248
+          },
+          "ODP": {
+            "description": "",
+            "unit": "kg CFC-11 eq.",
+            "value": 0.000000000263
+          },
+          "PM": {
+            "description": "",
+            "unit": "Disease occurrence",
+            "value": 0.000000000044
+          },
+          "POCP": {
+            "description": "",
+            "unit": "kg NMVOC eq.",
+            "value": 0.00000215
+          },
+          "WU": {
+            "description": "",
+            "unit": "m3 eq.",
+            "value": 0.00165
+          },
+          "MIPS": {
+            "description": "",
+            "unit": "kg",
+            "value": 0.00335
+          },
+          "TPE": {
+            "description": "",
+            "unit": "MJ",
+            "value": 0.0254
+          }
+        }
+      }
+    }
+  }
 }
